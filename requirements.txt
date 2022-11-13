@@ -1,0 +1,8 @@
+neopixel
+adafruit_ticks
+adafruit_bitmap_font
+adafruit_display_text
+adafruit_imageload
+adafruit_io
+asyncio
+cedargrove_palettefader
